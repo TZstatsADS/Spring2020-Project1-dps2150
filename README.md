@@ -2,27 +2,13 @@
 ## Spring 2020
 ## Project 1: A "data story" on the songs of our times
 
-<img src="figs/title1.jpeg" width="500">
+Has it happened to you when a song was really *speaking* to you? Do you like some of your favorite songs for their lyrics? When you think of a particular music genre (e.g., classic rock), do you expect certain *topics* or *sentiments* for the lyrics? 
 
-### [Project Description](doc/)
-This is the first and only *individual* (as opposed to *team*) this semester. 
+The goal of this project is to look deeper into the patterns and characteristics of different types of song lyrics. Applying tools from natural language processing and text mining, students should derive interesting findings in this collection of song lyrics and write a "data story" that can be shared with a general audience. 
 
-Term: Spring 2020
+Title: Does Finance Imitate Art? 
+This project finds if there is a connection between the worlds of finance and art. 
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
+<img src="figs/notes.png" width="300">
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
-
-```
-proj/
-├── lib/
-├── data/
-├── doc/
-├── figs/
-└── output/
-```
-
-Please see each subfolder for a README file.
+Project <a href="doc/Project1_dps2150.Rmd">Project1_dps2150.Rmd</a> with <a href="doc/Project1_dps2150.html">markdown html</a> are found in doc folder. 
